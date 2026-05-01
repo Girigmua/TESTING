@@ -1,3 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit - testing code"
+git remote add origin https://github.com/Girigmua/mi-workspace.git
+git branch -M main
+git push -u origin main
 
 print("In the world of Eventaria you can choose from 4 different paths, each leading to a unique adventure. Each path will have its own story and challenges to overcome. You can choose to explore the mystical Forest of Elevaria, delve into the Cavernous depths, enter the grand Castle Demetreski, or soar into the Sky realm. Each path will offer a different experience and set of challenges, so choose wisely and enjoy your adventure in Eventaria!")
 print()
